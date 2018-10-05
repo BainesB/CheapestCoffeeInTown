@@ -1,1 +1,0 @@
-create an sqlite3 db, to hold the titles and prices. 
